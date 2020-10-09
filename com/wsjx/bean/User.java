@@ -1,6 +1,7 @@
 package com.wsjx.bean;
 
-public class Teacher {
+public class User{
     private int id;
     private String name;
+    private int age;
 }
